@@ -1,8 +1,8 @@
 let productos = [
-    { nombre: 'Camiseta', stock: 10 },
-    { nombre: 'Pantalones', stock: 5 },
-    { nombre: 'Zapatos', stock: 7 },
-    { nombre: 'Gorras', stock: 3 },
+    { nombre: 'Manzana', stock: 10 },
+    { nombre: 'Zapallo', stock: 5 },
+    { nombre: 'Pera', stock: 7 },
+    { nombre: 'Sandia', stock: 3 },
   ];
   
 
